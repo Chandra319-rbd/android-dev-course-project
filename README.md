@@ -148,11 +148,7 @@ The app uses a custom Chinese-inspired color palette:
 
 This project is created for academic purposes as part of an Android Development course.
 
-## 👥 Contributors
 
-[Your Name/Team Names Here]
-
-## 📞 Support
 
 For issues or questions, please contact [your email].
 
